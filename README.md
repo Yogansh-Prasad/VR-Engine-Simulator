@@ -8,8 +8,6 @@ Welcome to the VR Four Stroke Engine Simulation and Learning App! This project i
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -55,27 +53,6 @@ To experience the VR Four Stroke Engine Simulation and Learning App, follow thes
 3. **Quiz Round:** Engage in the quiz round to test your knowledge. Answer questions related to engine parts, their roles, and the four-stroke cycle.
 
 4. **Learn and Have Fun:** Immerse yourself in the learning process while enjoying the interactive VR experience.
-
-## Contributing
-
-Contributions to the VR Four Stroke Engine Simulation and Learning App are welcome! If you find any issues or have ideas for improvements, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix:
-   ```
-   git checkout -b feature/your-feature-name
-   ```
-
-3. Make your modifications and commit changes:
-   ```
-   git commit -m "Add your commit message here"
-   ```
-
-4. Push your branch to your forked repository:
-   ```
-   git push origin feature/your-feature-name
-   ```
 
 5. Create a pull request detailing your changes and improvements.
 
