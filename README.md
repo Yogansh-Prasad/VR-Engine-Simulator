@@ -31,7 +31,7 @@ To experience the VR Four Stroke Engine Simulation and Learning App, follow thes
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/VR-Engine-Simulator.git
+   git clone https://github.com/Yogansh-Prasad/VR-Engine-Simulator.git
    ```
 
 2. **Open the Project:**
